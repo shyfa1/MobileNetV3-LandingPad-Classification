@@ -32,7 +32,7 @@ Training menggunakan augmentasi random crop, horizontal flip, dan color jitter. 
 | Partial Fine-Tuning | 100% | 6 | 4 | 29,42 detik |
 | Training from Scratch | 50% | 1 | Tidak tercapai | 58,28 detik |
 
-![Grafik Akurasi Validasi](accuracy.png)
+![Grafik Akurasi Validasi](Accuracy.png)
 
 Feature Extraction dan Partial Fine-Tuning mencapai akurasi validasi terbaik yang sama. Partial Fine-Tuning mencapai ambang 90% lebih awal. Training from Scratch menghasilkan akurasi lebih rendah dan waktu training lebih lama pada konfigurasi ini.
 
@@ -44,7 +44,7 @@ Feature Extraction dan Partial Fine-Tuning mencapai akurasi validasi terbaik yan
 | Partial Fine-Tuning | 10/10 | 100% |
 | Training from Scratch | 5/10 | 50% |
 
-![Perbandingan Confusion Matrix](confusion_matrix_comparison.png)
+![Perbandingan Confusion Matrix](Confusion_matrix_comparison.png)
 
 Test set hanya berisi 10 citra, sehingga hasil belum cukup untuk memastikan generalisasi model pada data baru.
 
