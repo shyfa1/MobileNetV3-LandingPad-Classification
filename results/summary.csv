@@ -1,0 +1,4 @@
+model,mode,best_epoch,best_val_acc,epoch_90,training_seconds
+MobileNetV3-Small,feature,6,1.0,6,31.29
+MobileNetV3-Small,partial,6,1.0,4,29.42
+MobileNetV3-Small,scratch,1,0.5,,58.28

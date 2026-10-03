@@ -1,0 +1,4 @@
+Model,Mode,Device,Latency (ms),FPS
+MobileNetV3-Small,feature,cuda,4.985,200.62
+MobileNetV3-Small,partial,cuda,5.084,196.68
+MobileNetV3-Small,scratch,cuda,5.124,195.16

@@ -1,0 +1,4 @@
+Model,Mode,Correct,Total Test Images,Test Accuracy (%)
+MobileNetV3-Small,feature,10,10,100.0
+MobileNetV3-Small,partial,10,10,100.0
+MobileNetV3-Small,scratch,5,10,50.0

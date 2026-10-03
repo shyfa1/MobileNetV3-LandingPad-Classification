@@ -1,0 +1,4 @@
+Model,Mode,Device,Latency (ms),FPS
+MobileNetV3-Small,feature,cpu,15.764,63.43
+MobileNetV3-Small,partial,cpu,19.147,52.23
+MobileNetV3-Small,scratch,cpu,16.363,61.11
